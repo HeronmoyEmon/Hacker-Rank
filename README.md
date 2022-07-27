@@ -1,2 +1,2 @@
 # Hacker-Rank
-This respiratory contains my Hacker Rank practice codes.
+This repository contains my Hacker Rank practice codes.
